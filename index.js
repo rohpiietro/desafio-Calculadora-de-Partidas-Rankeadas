@@ -1,4 +1,3 @@
-
 let vitoriasJogador = 81; 
 let derrotasJogador = 15; 
 
